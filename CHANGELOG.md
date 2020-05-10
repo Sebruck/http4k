@@ -5,7 +5,7 @@ changes with their rationale when appropriate:
 
 ### v3.247.0
 - [http4k-server-ktornetty] New backend module! H/T @albertlatacz for the contribution!
-- [all] Upgrade some dependency versions.
+- [all] Upgrade some dependency versions
 
 ### v3.246.0
 - [all] Upgrade some dependency versions.
